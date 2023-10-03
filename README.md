@@ -1,7 +1,8 @@
 # module-10-challenge
 
 ## Link to walkthrough video
-https://drive.google.com/file/d/1bzI3p4yTbRc1LUuHZggP9az6JxEr_Y7L/view
+[Untitled_ Oct 2, 2023 9_52 PM (1).webm](https://github.com/TylerJMalone/logo-maker/assets/135089114/bbcbab48-ddba-4d75-8f03-71fc7e5f66a6)
+
 
 ## Object-oriented Programming Challenge: SVG Logo Maker
 Your task is to build a Node.js command-line application that takes in user input to generate a logo and save it as an SVG fileLinks to an external site.. The application prompts the user to select a color and shape, provide text for the logo, and save the generated SVG to a .svg file.
